@@ -6,3 +6,5 @@ auto import for vscode https://github.com/Microsoft/vscode-go/wiki/Go-modules-su
 Use the go module.
 Ref: https://github.com/golang/go/wiki/Modules#how-to-install-and-activate-module-support
      https://github.com/microsoft/vscode-go/issues/3086
+
+Learning Journey from: https://www.youtube.com/watch?v=hodOppKJm5Y
