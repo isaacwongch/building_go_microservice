@@ -6,3 +6,9 @@ auto import for vscode https://github.com/Microsoft/vscode-go/wiki/Go-modules-su
 Use the go module.
 Ref: https://github.com/golang/go/wiki/Modules#how-to-install-and-activate-module-support
      https://github.com/microsoft/vscode-go/issues/3086
+
+* Episode 3
+Package Json for marchalling the struct
+Use of field tag
+
+When a request comes into the server, go will call the handler's ServeHTTP function (must be implemented)
