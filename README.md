@@ -12,3 +12,14 @@ Package Json for marchalling the struct
 Use of field tag
 
 When a request comes into the server, go will call the handler's ServeHTTP function (must be implemented)
+
+* Episode 4
+
+```
+d, err := json.Marshal(lp)
+rw.Write(d)
+
+e := json.NewEncoder(w)
+return e.Encode(p)
+```
+
